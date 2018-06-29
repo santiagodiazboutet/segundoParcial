@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1530306329 source:c:\test\sboutet\sparcial-master\sparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530306313 c:\test\sboutet\sparcial-master\sparcial\arraylist.h
+
+1530307556 source:c:\test\sboutet\sparcial-master\sparcial\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnos.h"
+	"ArrayList.h"
+
+1530307404 c:\test\sboutet\sparcial-master\sparcial\alumnos.h
+	"ArrayList.h"
+
+1530306720 source:c:\test\sboutet\sparcial-master\sparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnos.h"
+	"ArrayList.h"
+

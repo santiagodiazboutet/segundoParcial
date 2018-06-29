@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1529100726 source:c:\test\sboutet\tp_4\arraylist\examples\example_4\inc\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/ArrayList.h"
+
+1496883878 c:\test\sboutet\tp_4\arraylist\examples\example_4\inc\arraylist.h
+
+1529699662 source:c:\test\sboutet\sparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\test\sboutet\sparcial\arraylist.h
+
+1529705392 c:\test\sboutet\sparcial\tramite.h
+
+1529705342 source:c:\test\sboutet\sparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tramite.h"
+	"ArrayList.h"
+
+1529706112 source:c:\test\sboutet\sparcial\tramite.c
+	<stdio.h>
+	<stdlib.h>
+	"Tramite.h"
+	"ArrayList.h"
+
